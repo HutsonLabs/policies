@@ -55,7 +55,7 @@ We also do not collect any biometric data. You are given the option to add a pic
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
   Finally, if Hutson Labs, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
   
-  ## Your rights with respect to your information
+## Your rights with respect to your information
   
   At Hutson Labs, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Hutson Labs recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
