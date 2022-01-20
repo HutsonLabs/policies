@@ -41,7 +41,7 @@ We also store any information you volunteer like surveys. Sometimes when we do c
 We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
 We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
-### ## When we access or share your information
+### When we access or share your information
 
 * Our default practice is to not access your information. The only times we’ll ever access or share your info are:
   **To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. Having subprocessors means we are using technology to access your data. No Hutson Labs human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. 
