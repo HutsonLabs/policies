@@ -41,7 +41,7 @@ We also store any information you volunteer like surveys. Sometimes when we do c
 We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
 We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
-### ## When we access or share your information
+### When we access or share your information
 
 * Our default practice is to not access your information. The only times we’ll ever access or share your info are:
   **To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. Having subprocessors means we are using technology to access your data. No Hutson Labs human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. 
@@ -55,7 +55,7 @@ We also do not collect any biometric data. You are given the option to add a pic
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
   Finally, if Hutson Labs, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
   
-  ## Your rights with respect to your information
+## Your rights with respect to your information
   
   At Hutson Labs, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Hutson Labs recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
