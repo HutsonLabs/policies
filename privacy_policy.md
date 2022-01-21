@@ -54,26 +54,36 @@ Our default practice is to not access your information. The only times we’ll e
 *  **When required under applicable law.** Hutson Labs, LLC is a US company and all data infrastructure are located in the US. If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Hutson Labs with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. ***We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.***
 
 * Similarly, if Hutson Labs receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so. We do not share preserved data unless absolutely required under the Stored Communications Act or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we destroy any preserved copies we made of customer data once the preservation period lapses.
+
 * If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly.
+
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
-  Finally, if Hutson Labs, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+
+* Finally, if Hutson Labs, LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
   
 ## Your rights with respect to your information
   
 At Hutson Labs, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Hutson Labs recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
+
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
+
 * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
+
 * **Right to Correction.** You have the right to request correction of your personal information.
+
 * **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Hutson Labs services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
+
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority. 
+
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
+
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
+
 * **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party.
+
 * **Right to not be subject to Automated Decision-Making.** You have the right to object and prevent any decision that could have a legal, or similarly significant, effect on you from being made solely based on automated processes. This right is limited, however, if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
-* **Right to Non-Discrimination.** This right stems from the CCPA. We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services.
-  Many of these rights can be exercised by signing in and directly updating your account information.
-  If you have questions about exercising these rights or need assistance, please contact us. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
-  If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
+
+* **Right to Non-Discrimination.** This right stems from the CCPA. We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services. Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding. If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
   
 ## How we secure your data
   
@@ -91,7 +101,7 @@ Our products and other web properties are operated in the United States. If you 
   
 ## When transferring personal data from the EU
   
-  The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. Hutson Labs has voluntarily participated in the EU-US Privacy Shield Framework as well as the Swiss-US Privacy Shield Framework.
+The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. Hutson Labs has voluntarily participated in the EU-US Privacy Shield Framework as well as the Swiss-US Privacy Shield Framework.
 
 ## EU-US and Swiss-US Privacy Shield policy
   
@@ -106,8 +116,11 @@ Hutson Labs is subject to the investigatory and enforcement powers of the Federa
 The Privacy Shield Frameworks uphold specific principles, many of which are already outlined in the section on Your Rights. For clarity, pursuant to the Privacy Shield Frameworks, the following principles apply to all EU, UK, and Swiss data that has been transferred into the United States:
 
 - Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [privacy@aureumdata.com](mailto:privacy@aureumdata.com).
+
 - We remain liable for the onward transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
+
 - We do not sell personal data nor do we permit it to be used for reasons other than those for which it was originally provided. If this practice should change in the future, we will update this policy accordingly and provide individuals with opt-out or opt-in choice as appropriate.
+
 - We may be required to release personal data in response to lawful requests from public authorities including to meet national security and law enforcement requirements.
   
 ### We commit to resolving all complaints
