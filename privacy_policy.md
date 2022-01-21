@@ -3,6 +3,7 @@
 *Last updated: January 21, 2022*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
+
 This policy applies to all products built and maintained by Hutson Labs, LLC including Aureum. 
 
 ## What we collect and why
@@ -15,7 +16,7 @@ When you sign up for a Hutson Labs product, we ask for identifying information s
 
 ### Billing information
 
-When you pay for a Hutson Labs product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn’t ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
+When you pay for a Hutson Labs product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn’t ever go through our servers. We store a record of the payment transaction, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
 ### Geolocation data
 
@@ -110,9 +111,7 @@ The EU-US [Privacy Shield](https://www.privacyshield.gov/) is an agreement betwe
   
 ### We comply with the frameworks for EU, UK, and Swiss data that are transferred into the United States
   
-Hutson Labs complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, respectively. We’ve certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles take precedent. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
-
-Hutson Labs is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with regard to the Privacy Shield Frameworks.
+Hutson Labs complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, respectively. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles take precedent. To learn more about the Privacy Shield program, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
 The Privacy Shield Frameworks uphold specific principles, many of which are already outlined in the section on Your Rights. For clarity, pursuant to the Privacy Shield Frameworks, the following principles apply to all EU, UK, and Swiss data that has been transferred into the United States:
 
@@ -126,14 +125,14 @@ The Privacy Shield Frameworks uphold specific principles, many of which are alre
   
 ### We commit to resolving all complaints
   
-In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Basecamp at [privacy@aureumdata.com](mailto:privacy@aureumdata.com).
+In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact [privacy@aureumdata.com](mailto:privacy@aureumdata.com).
 
-Hutson Labs (the company) has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
+Hutson Labs has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
 
 If your EU-US Privacy Shield complaint cannot be resolved through these described channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
   
 ## Changes & questions
   
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/hutsonphd/policies/commits/main). 
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/hutsonphd/policies/commits/main). 
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@aureumdata.com](mailto:privacy@areumdata.com) and we’ll be happy to answer them!
