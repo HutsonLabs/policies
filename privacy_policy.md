@@ -24,8 +24,7 @@ When you browse our marketing pages or applications, your browser automatically 
 
 ### Cookies and Do Not Track
 
-We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org).
-At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
+We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org). At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
 
 ### Voluntary correspondence
 
