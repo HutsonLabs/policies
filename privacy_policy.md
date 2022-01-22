@@ -18,12 +18,6 @@ When you sign up for a Hutson Labs product, we ask for identifying information s
 
 When you pay for a Hutson Labs product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn’t ever go through our servers. We store a record of the payment transaction, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions, and to print on your invoices.
 
-### Geolocation data
-
-We log all access to all accounts by full IP address so that we can always verify no unauthorized access has happened. We keep this login data for as long as your product account is active.
-We also log full IP addresses used to sign up a product account. We keep this record forever for all our apps. 
-Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
-
 ### Website interactions
 
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days.
