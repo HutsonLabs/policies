@@ -6,6 +6,8 @@ Aureum provides a 99.9% [Uptime commitment](#uptime-commitment) for customers on
 
 ## SLA breakdown
 
+
+
 ### Downtime
 
 ---
@@ -20,6 +22,9 @@ Downtime excludes the following:
 - External network or equipment problems outside of our reasonable control, such as bad routing tables between your internet service provider (ISP) and our server
 - [Scheduled Downtime](#scheduled-downtime) for maintenance
 
+
+
+
 ### Uptime Commitment
 
 ---
@@ -28,11 +33,15 @@ Downtime excludes the following:
 
 **_\[(total minutes in quarter - Downtime) / total minutes in quarter\] > 99.9%_**
 
+
+
 ### Scheduled Downtime
 
 ---
 
 Sometimes we need to perform maintenance to keep Aureum working smoothly. If scheduled downtime is necessary, we’ll give you at least 48 hours advance notice. In a year, scheduled downtime won’t exceed 30 hours.
+
+
 
 ### Service Credits
 
@@ -43,6 +52,8 @@ If we fall short of our Uptime commitment, we’ll apply a credit to each affec
 Service Credits are not refunds, cannot be exchanged into a cash amount, are capped at a maximum of 30 days of paid service, require you to have paid any outstanding invoices and expire upon termination of your customer contract. Service Credits are the sole and exclusive remedy for any failure by Aureum to meet its obligations under this SLA.
 
 Note, Downtime doesn’t affect everyone at the same time or in the same way. For example, some accounts may receive Service Credits during an outage in their region, while other accounts in other regions that have not been similarly affected will not.
+
+
 
 ### Updates
 
