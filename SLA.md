@@ -6,8 +6,6 @@ Aureum provides a 99.9% Uptime commitment for customers on the Enterprise Plan a
 
 ## SLA breakdown
 
----
-
 ### Downtime
 
 ---
