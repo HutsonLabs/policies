@@ -2,7 +2,7 @@
 
 _**Effective: March 1, 2022**_
 
-Aureum provides a 99.9% Uptime commitment for customers on the Enterprise Plan and above (our **Service Level Agreement** or **SLA**). If we fall short of our 99.9% Uptime commitment and your workspace is affected, we’ll apply a [Service Credit](#service-credits) to your account for future use.
+Aureum provides a 99.9% [Uptime commitment](#uptime-commitment) for customers on the Enterprise Plan and above (our **Service Level Agreement** or **SLA**). If we fall short of our 99.9% Uptime commitment and your workspace is affected, we’ll apply a [Service Credit](#service-credits) to your account for future use.
 
 ## SLA breakdown
 
@@ -18,7 +18,7 @@ Downtime excludes the following:
 - Issues that are related to external apps or third parties, including Aureum Connect
 - Any products or features identified as pilot, alpha, beta or similar
 - External network or equipment problems outside of our reasonable control, such as bad routing tables between your internet service provider (ISP) and our server
-- Scheduled Downtime for maintenance
+- [Scheduled Downtime](#scheduled-downtime) for maintenance
 
 ### Uptime Commitment
 
