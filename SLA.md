@@ -2,7 +2,7 @@
 
 _**Effective: March 1, 2022**_
 
-Aureum provides a 99.9% Uptime commitment for customers on the Enterprise Plan and above (our **Service Level Agreement** or **SLA**). If we fall short of our 99.9% Uptime commitment and your workspace is affected, we’ll apply a Service Credit to your account for future use.
+Aureum provides a 99.9% Uptime commitment for customers on the Enterprise Plan and above (our **Service Level Agreement** or **SLA**). If we fall short of our 99.9% Uptime commitment and your workspace is affected, we’ll apply a [Service Credit](#Service%20Credits) to your account for future use.
 
 ## SLA breakdown
 
