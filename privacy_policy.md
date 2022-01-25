@@ -135,4 +135,4 @@ If your EU-US Privacy Shield complaint cannot be resolved through these describe
   
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/hutsonphd/policies/commits/main). 
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@aureumdata.com](mailto:privacy@areumdata.com) and we’ll be happy to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@aureumdata.com](mailto:privacy@areumdata.com)and we’ll be happy to answer them!
