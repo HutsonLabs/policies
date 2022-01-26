@@ -1,7 +1,7 @@
 # Privacy policy
 *Last updated: January 21, 2022*
 
-The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
+The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will. Hello.
 
 This policy applies to all products built and maintained by Hutson Labs, LLC including Aureum. 
 

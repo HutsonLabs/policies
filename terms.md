@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a Hutson Labs 
 
 # Terms of Service
 
-*Last updated: September 28, 2021*
+*Last updated: January 26, 2022*
 
 From everyone at Hutson Labs, thank you for using our products! We build them to help you do you get the most from your business data. There are tons of people using Hutson Labs products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
