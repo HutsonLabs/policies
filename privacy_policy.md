@@ -1,3 +1,7 @@
+---
+https://www.aureumdata.com/privacy_policy
+---
+
 # Privacy policy
 *Last updated: January 21, 2022*
 
