@@ -84,8 +84,6 @@ We offer Application Program Interfaces ("API"s) for some of our Services (curre
 2. Third parties may not access and employ the API if the functionality is part of an application that remotely records, monitors, or reports a Service user's activity *other than time tracking*, both inside and outside the applications. The Company, in its sole discretion, will determine if an integration service violates this bylaw. A third party that has built and deployed an integration for the purpose of remote user surveillance will be required to remove that integration.
 3. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account's access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account's access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
 
-Some third-party providers have created integrations between our Services and theirs. You can find some of those integrations for Hutson Labs at <https://Hutson Labs.com/extras> We are not liable or accountable for any of these third-party integrations.
-
 ## Liability
 
 We mention liability throughout these Terms but to put it all in one section:
