@@ -6,19 +6,20 @@ We are proud to give you a better way to work. We also recognize that however go
 
 **Restricted purposes**
 
-Violence, or threats thereof: If an activity qualifies as violent crime in the United States or where you live, you may not use Basecamp products to plan, perpetrate, or threaten that activity.
-Child exploitation, sexualization, or abuse: We don’t tolerate any activities that create, disseminate, or otherwise cause child abuse. Keep away and stop. Just stop.
-Hate speech: You cannot use our products to advocate for the extermination, domination, or oppression of people.
-Harassment: Intimidating or targeting people or groups through repeated communication, including using racial slurs or dehumanizing language, is not welcome at Basecamp.
-Doxing: If you are using Basecamp products to share other peoples’ private personal information for the purposes of harassment, we don’t want anything to do with you.
-Malware or spyware: Code for good, not evil. If you are using our products to make or distribute anything that qualifies as malware or spyware — including remote user surveillance — begone.
-Phishing or otherwise attempting fraud: It is not okay to lie about who you are or who you affiliate with to steal from, extort, or otherwise harm others.
-Spamming: No one wants unsolicited commercial emails. We don’t tolerate folks (including their bots) using Basecamp products for spamming purposes. If your emails don’t pass muster with CAN-SPAM or any other anti-spam law, it’s not allowed.
-Cybersquatting: We don’t like username extortionists. If you purchase a Basecamp product account in someone else’s name and then try to sell that account to them, you are cybersquatting. Cybersquatting accounts are subject to immediate cancellation.
-Infringing on intellectual property: You can’t use Basecamp products to make or disseminate work that uses the intellectual property of others beyond the bounds of fair use.
-While our use restrictions are comprehensive, they can’t be exhaustive — it’s possible an offense could defy categorization, present for the first time, or illuminate a moral quandary we hadn’t yet considered. That said, we hope the overarching spirit is clear: Basecamp is not to be harnessed for harm, whether mental, physical, personal or civic. Different points of view — philosophical, religious, and political — are welcome, but ideologies like white nationalism, or hate-fueled movements anchored by oppression, violence, abuse, extermination, or domination of one group over another, will not be accepted here.
+* Violence, or threats thereof: If an activity qualifies as violent crime in the United States or where you live, you may not use Hutson Labs products to plan, perpetrate, or threaten that activity.
+* Child exploitation, sexualization, or abuse: We don’t tolerate any activities that create, disseminate, or otherwise cause child abuse. Keep away and stop. Just stop.
+* Hate speech: You cannot use our products to advocate for the extermination, domination, or oppression of people.
+* Harassment: Intimidating or targeting people or groups through repeated communication, including using racial slurs or dehumanizing language, is not welcome at Hutson Labs.
+* Doxing: If you are using Hutson Labs products to share other peoples’ private personal information for the purposes of harassment, we don’t want anything to do with you.
+* Malware or spyware: Code for good, not evil. If you are using our products to make or distribute anything that qualifies as malware or spyware — including remote user surveillance — begone.
+* Phishing or otherwise attempting fraud: It is not okay to lie about who you are or who you affiliate with to steal from, extort, or otherwise harm others.
+* Spamming: No one wants unsolicited commercial emails. We don’t tolerate folks (including their bots) using Hutson Labs products for spamming purposes. If your emails don’t pass muster with CAN-SPAM or any other anti-spam law, it’s not allowed.
+* Cybersquatting: We don’t like username extortionists. If you purchase a Hutson Labs product account in someone else’s name and then try to sell that account to them, you are cybersquatting. Cybersquatting accounts are subject to immediate cancellation.
+* Infringing on intellectual property: You can’t use Hutson Labs products to make or disseminate work that uses the intellectual property of others beyond the bounds of fair use.
 
-How to report abuse
+While our user restrictions are comprehensive, they can’t be exhaustive — it’s possible an offense could defy categorization, present for the first time, or illuminate a moral quandary we hadn’t yet considered. That said, we hope the overarching spirit is clear: Hutson Labs is not to be harnessed for harm, whether mental, physical, personal or civic. Different points of view — philosophical, religious, and political — are welcome, but ideologies like white nationalism, or hate-fueled movements anchored by oppression, violence, abuse, extermination, or domination of one group over another, will not be accepted here.
+
+**How to report abuse**
 
 For cases of suspected malware, spyware, phishing, spamming, and cybersquatting, please alert us at abuse@basecamp.com.
 
