@@ -21,7 +21,7 @@ While our user restrictions are comprehensive, they can’t be exhaustive — it
 
 **How to report abuse**
 
-For cases of suspected malware, spyware, phishing, spamming, and cybersquatting, please alert us at abuse@basecamp.com.
+For cases of suspected malware, spyware, phishing, spamming, and cybersquatting, please alert us at support@hutsonlabs.freshdesk.com.
 
 For all other cases, please let us know by emailing report@basecamp.com. If you’re not 100% sure if something rises to the level of our use restrictions policy, report it anyway.
 
