@@ -1,4 +1,8 @@
-User Restrictions
+---
+https://www.aureumdata.com/user_restrictions_policy
+---
+
+**User Restrictions**
 
 Last updated: January 27, 2022
 
