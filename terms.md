@@ -78,7 +78,7 @@ We also test all of our features extensively before shipping them. As with any s
 
 ## Services Adaptations and API Terms
 
-We offer Application Program Interfaces ("API"s) for some of our Services (currently Hutson Labs, Highrise, Campfire, and Backpack). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
+We offer Application Program Interfaces ("API"s) for some of our Services (currently Aureum). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
 
 1. You expressly understand and agree that we are not liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
 2. Third parties may not access and employ the API if the functionality is part of an application that remotely records, monitors, or reports a Service user's activity *other than time tracking*, both inside and outside the applications. The Company, in its sole discretion, will determine if an integration service violates this bylaw. A third party that has built and deployed an integration for the purpose of remote user surveillance will be required to remove that integration.
