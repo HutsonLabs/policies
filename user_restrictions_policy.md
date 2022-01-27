@@ -4,7 +4,7 @@ Last updated: January 27, 2022
 
 We are proud to give you a better way to work. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Hutson Labs is used (and abused) to further such harm, and to state unequivocally that the products we make at Hutson Labs are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, we will take action.
 
-Restricted purposes
+**Restricted purposes**
 
 Violence, or threats thereof: If an activity qualifies as violent crime in the United States or where you live, you may not use Basecamp products to plan, perpetrate, or threaten that activity.
 Child exploitation, sexualization, or abuse: We don’t tolerate any activities that create, disseminate, or otherwise cause child abuse. Keep away and stop. Just stop.
