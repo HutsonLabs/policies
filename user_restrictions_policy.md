@@ -29,4 +29,4 @@ Please share as much as you are comfortable with about the account, the content 
 
 Someone on our team will respond within one business day to let you know we’ve begun investigating. We have published details on how we investigate use restriction reports. We will also let you know the outcome of our investigation (unless you ask us not to, or we are not allowed to under law).
 
-*This policy and process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.
+*This policy and process applies to any product created and owned by Hutson Labs, LLC. That includes Aureum (any version), and any other future products.
