@@ -7,4 +7,5 @@ https://www.aureumdata.com/about/team  =  no content
 https://www.aureumdata.com/about/values  =  no content 
 https://www.aureumdata.com/taxes/index.md  = no content
 https://www.aureumdata.com/abuse/ho-we-handle/index.md  =  no content
-https://www.aureumdata.com/
+https://www.aureumdata.com/copyright/index  =  no content-->https://www.copyright.gov/help/faq/faq-infringement.html
+https://www.aureumdata.com/about  =  no content
