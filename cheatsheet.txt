@@ -1,0 +1,5 @@
+https://www.aureumdata.com/user_restrictions_policy  =  user_restrictions_policy.md
+https://www.aureumdata.com/cancellation_policy  =  cancellation_policy.md
+https://www.aureumdata.com/SLA  =  SLA.md 
+https://www.aureumdata.com/privacy_policy  =  privacy_policy.md 
+https://www.aureumdata.com/fair_refund_policy  =  fair_refund_policy.md
