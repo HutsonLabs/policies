@@ -6,7 +6,7 @@ https://www.aureumdata.com/terms
 
 *Last updated: January 26, 2022*
 
-From everyone at Hutson Labs, thank you for using our products! We build them to help you do you get the most from your business data. There are tons of people using Hutson Labs products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+From everyone at Hutson Labs, thank you for using our product! We built this to help you to get the most from your business data. There are tons of people using Hutson Labs products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Hutson Labs, LLC. 
 
