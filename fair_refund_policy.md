@@ -1,9 +1,4 @@
----
-https://www.aureumdata.com/fair_refund_policy
----
-
-
-**Refund policy**
+# Refund policy
 
 Learn about how and when we offer refunds for Aureum.
 A fair refund policy
