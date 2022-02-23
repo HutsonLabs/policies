@@ -1,4 +1,5 @@
-# Refund policy
+# Fair Refund policy
+*Last updated: February 23, 2022*
 
 Learn about how and when we offer refunds for Aureum.
 A fair refund policy
