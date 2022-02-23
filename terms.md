@@ -1,7 +1,3 @@
----
-https://www.aureumdata.com/terms
----
-
 # Terms of Service
 
 *Last updated: January 26, 2022*
