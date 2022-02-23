@@ -1,9 +1,4 @@
----
-https://www.aureumdata.com/cancellation_policy
----
-
-**Cancellation Policy**
-
+# Cancellation Policy
 Last updated: January 28, 2022
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly in our app — no phone calls required, no questions asked.
