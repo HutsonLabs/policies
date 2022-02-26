@@ -1,11 +1,15 @@
 # Cancellation Policy
-*Last updated: February 23, 2022*
+*Last updated: February 25, 2022*
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly in our app — no phone calls required, no questions asked.
 
 Account owners can follow these instructions to cancel in-app:
 
-_need to write this section once available_
+1. Log into your [Aureum workspace](https://www.aureumdata.com/workspace)
+2. Click on the menu next to your user name in the top navigation bar and select Settings.
+3. Find the "Manage Subscription" button and click it. This takes you to your Stripe portal where you can update your billing information, payment method, see your invoice history and cancel your your plan.
+4. Click the "Cancel Plan" plan button and follow the instructions. 
+
 
 **What happens when you cancel?**
 
